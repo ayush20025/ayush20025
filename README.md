@@ -1,8 +1,10 @@
-# Hi there 👋 I'm Ayush Kumar
+<h1 align="center"># Hi there 👋 I'm Ayush Kumar</h1>
 
-🎓 MSc Artificial Intelligence & Machine Learning @ Jamia Millia Islamia  
-💻 Machine Learning | NLP | Generative AI  
+<p align="center">
+🎓 MSc Artificial Intelligence & Machine Learning @ Jamia Millia Islamia<br>
+💻 Machine Learning | NLP | Generative AI<br>
 📍 India
+</p>
 
 ---
 
@@ -42,11 +44,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush20025&show_icons=true&theme=radical" />
-</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush20025&layout=compact&theme=radical" />
-</p>
